@@ -1,0 +1,6 @@
+cat <<EOF > .gitignore
+*.out
+*.o
+*.exe
+.vscode/
+build/
